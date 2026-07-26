@@ -1,0 +1,2 @@
+#this is the folder where we store the latest LegendaryOS.py file.
+#for newer versions of LegendaryOS, your OS will perform an update check every boot. if it finds an update file avaliable, it will display a pop up message.
